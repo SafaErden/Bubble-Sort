@@ -11,10 +11,11 @@ def bubble_sort(arr)
   puts arr
 end
 
-
-
-
-
-
-
 bubble_sort([4,3,78,2,0,2,-2,-5])
+bubble_sort(['orange', 'tomato', 'apple', 'strawberry', 'coconut'])
+
+
+
+
+
+
